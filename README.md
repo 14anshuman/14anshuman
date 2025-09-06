@@ -123,8 +123,8 @@
   <a href="mailto:singhanshuman8182@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://nexfellow.com" target="blank">
-  <img src="https://img.shields.io/badge/NexFellow-Connect-blue?style=social&logo=telegram" alt="NexFellow Badge"/>
+  <a href="https://www.nexfellow.com/dashboard/anshuman_14" target="blank">
+  <img src="https://img.shields.io/badge/NexFellow-0A66C2?style=for-the-badge&logo=riseup&logoColor=white" alt="NexFellow Badge"/>
 </a>
 </p>
 
