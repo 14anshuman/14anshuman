@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
   <span>Hey there, I'm Anshuman Singh! 👋</span>
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI%2FML+Explorer;Building+Web+%26+AI-Powered+Apps;500%B+DSA+Problems+Solved;Open+to+Collaborations+%26+Opportunities;Always+Learning%2C+Always+Creating!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F79327&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI%2FML+Explorer;Building+Web+%26+AI-Powered+Apps;B+DSA+Problems+Solved;Open+to+Collaborations+%26+Opportunities;Always+Learning%2C+Always+Creating!" />
 </div>
 
 
