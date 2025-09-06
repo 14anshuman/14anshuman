@@ -29,7 +29,7 @@
 
 ### 🎨 Frontend  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 ### ⚙️ Backend  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </div>
 
 <div align="center">
@@ -58,7 +58,7 @@
 
 ### 🤖 AI & Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=python,langchain,opencv" alt="AI ML" />
 </div>
 
 - 🧠 Worked on **ML algorithms, NLP & AI-powered apps**  
