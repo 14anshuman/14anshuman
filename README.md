@@ -58,7 +58,7 @@
 
 ### 🤖 AI & Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,langchain,opencv" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=python,nlp,opencv" alt="AI ML" />
 </div>
 
 - 🧠 Worked on **ML algorithms, NLP & AI-powered apps**  
