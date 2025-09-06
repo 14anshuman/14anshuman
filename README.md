@@ -28,26 +28,28 @@ Transforming ideas into impactful digital experiences with the power of code. Sk
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1po1FTzv4DAN6X8AzQVp8dvkZ8uOr5BED/view)  
 
 ---
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/anshuman14" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.codechef.com/users/amaze_bug_7" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.hackerrank.com/14anshuman" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://leetcode.com/14anshuman" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" style="background:white; padding:5px; border-radius:5px;"/>
+  </a>&nbsp;&nbsp;
+  
   <a href="https://auth.geeksforgeeks.org/user/singhanshfzj2" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40" width="40"/>
   </a>
 </p>
-
 ---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
