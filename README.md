@@ -36,6 +36,7 @@ Transforming ideas into impactful digital experiences with the power of code. Sk
 <a href="https://auth.geeksforgeeks.org/user/singhanshfzj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhanshfzj2" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <!-- Inverted Pyramid Layout with Spacing -->
 
 <p align="center" style="margin: 20px 0;"> 
