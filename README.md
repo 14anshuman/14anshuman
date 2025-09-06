@@ -58,7 +58,7 @@
 
 ### 🤖 AI & Machine Learning  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,nlp,opencv" alt="AI ML" />
+  <img src="https://skillicons.dev/icons?i=python,opencv" alt="AI ML" />
 </div>
 
 - 🧠 Worked on **ML algorithms, NLP & AI-powered apps**  
@@ -68,7 +68,7 @@
 
 ### 🧰 Tools & Version Control  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,visualstudiolight" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,visualstudio-light" alt="Tools" />
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
 
