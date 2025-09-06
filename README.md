@@ -92,21 +92,9 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=anshuman14&theme=tokyonight&hide_border=false&border_radius=10" 
-       alt="GitHub Streak" 
-       width="500" />
-  
-  <br><br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=14anshuman&show_icons=true&locale=en&layout=compact" alt="14anshuman" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuman14&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_radius=10" 
-       alt="GitHub Stats" 
-       width="500" />
-  
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuman14&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
-       alt="GitHub Trophies" 
-       width="100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14anshuman&show_icons=true&locale=en" alt="14anshuman" /></p>
 
 </div>
 
