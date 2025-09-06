@@ -93,9 +93,17 @@
 
 <div align="center">
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=14anshuman&show_icons=true&locale=en&layout=compact" alt="14anshuman" /></p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=14anshuman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="150px"/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=14anshuman&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="150px"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=14anshuman&show_icons=true&locale=en" alt="14anshuman" /></p>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14anshuman&theme=tokyonight" alt="GitHub Streak" height="150px"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=14anshuman&theme=tokyo-night" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
