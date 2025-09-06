@@ -120,9 +120,12 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:anshuman@example.com">
+  <a href="mailto:singhanshuman8182@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://www.nexfellow.com/dashboard/anshuman_14" target="blank">
+  <img src="https://img.shields.io/badge/NexFellow-0A66C2?style=for-the-badge&logo=riseup&logoColor=white" alt="NexFellow Badge"/>
+</a>
 </p>
 
 ---
